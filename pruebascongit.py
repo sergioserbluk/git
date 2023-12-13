@@ -1,5 +1,6 @@
 print("Hola")
 
 
-a=input("uinfnasnf")
+a=input("ingrese su nombre")
+print("adios ", a)
 
